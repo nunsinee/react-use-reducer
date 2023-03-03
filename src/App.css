@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	margin: 0 auto;
+	text-align: center;
+}
+
+form {
+	display: flex;
+	margin: 0em auto;
+}
+
+.input {
+	width: 100%;
+	max-width: 200px;
+	font-size: 1rem;
+	justify-content: center;
+	justify-items: center;
+}
+
+button {
+	margin: 0.5em;
+	font-size: 1.2rem;
+}
