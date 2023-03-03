@@ -8,7 +8,7 @@ const Todo = ({ todo, dispatch }) => {
 		<div className={styles.todos}>
 			<span
 				style={{
-					color: todo.complete ? "blue" : "grey",
+					color: todo.complete ? "grey" : "blue",
 				}}
 			>
 				{todo.name}

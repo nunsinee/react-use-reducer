@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# React with using useReducer Hook
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](./public/Screenshot_useReducer.png)
+
+To create a simple component and use useReducer to do toggle and delete todo list.
+
+## Built With
+
+-   [React.js](https://reactjs.org/)
 
 ## Available Scripts
 
