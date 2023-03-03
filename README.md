@@ -10,7 +10,7 @@ To create a simple component and use useReducer to do toggle and delete todo lis
 
 ### Reference
 
-Learning how to do and applied code from Web Dev Simplifield [https://www.youtube.com/watch?v=kK_Wqx3RnHk&t=817s&ab_channel=WebDevSimplified]
+[Learning how to do and applied code from Web Dev Simplifield](https://www.youtube.com/watch?v=kK_Wqx3RnHk&t=817s&ab_channel=WebDevSimplified)
 
 ## Available Scripts
 
